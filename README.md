@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EC3ZED
-- 👀 I’m interested in w
+- 👀 I’m interested in web design 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
